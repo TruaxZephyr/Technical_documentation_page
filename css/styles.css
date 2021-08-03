@@ -4,13 +4,13 @@
 
 #box-1 {
     background-color: lightgray;
-    width: 30%;
+    width: 25%;
     height: 50%;
 }
 
 #box-2 {
     background-color: lightyellow;
-    width: 70%;
+    width: 75%;
     height: 50%;
 }
 
@@ -20,5 +20,16 @@
 
 li {
     list-style-type: none;
-    padding-right: 200px;
 }
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+#navbar {
+    padding-left: 35px;
+    padding-top: 25px;
+}
+
+
