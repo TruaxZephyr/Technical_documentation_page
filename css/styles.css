@@ -1,0 +1,15 @@
+#box-container {
+    display: flex;
+}
+
+#box-1 {
+    background-color: lightgray;
+    width: 50%;
+    height: 50%;
+}
+
+#box-2 {
+    background-color: lightyellow;
+    width: 50%;
+    height: 50%;
+}
