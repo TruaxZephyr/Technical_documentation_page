@@ -8,17 +8,14 @@
 }
 
 #box-2 {
-    background-color:lightgray;
+    background-color:rgb(24, 21, 21);
     height: 100%;
     margin-left: -20px;
 }
 
-@media (max-width: 800px) {#box-2 {color: teal;}}
-
-
 .nav-link {
     text-decoration: none;
-    color: black;
+    color: rgb(174, 177, 29);
 }
 
 li {
@@ -33,14 +30,14 @@ ul {
 #navbar {
     position: fixed;
     height: 100%;
-    background-color:lightgray;
+    background-color:rgb(24, 21, 21);
     padding-top: 35px;
     border-right: solid;
     border-right-color: lightslategray;
-
 }
 
 body {
-    background-color: rgb(177, 18, 18);
+    background-color: rgb(24, 21, 21);
+    color: rgb(174, 177, 29);
 }
 
