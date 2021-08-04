@@ -3,15 +3,15 @@
 }
 
 #box-1 {
-    background-color: lightgray;
     width: 25%;
     height: 50%;
 }
 
 #box-2 {
-    background-color: lightyellow;
-    width: 75%;
+    background-color: blue;
+    width: 85%;
     height: 50%;
+    margin-left: -40px;
 }
 
 .nav-link {
@@ -29,15 +29,10 @@ ul {
 
 #navbar {
     position: fixed;
-    min-width: 290px;
-    top: 0px;
-    left: 0px;
-    width: 300px;
     height: 100%;
-    padding-left: 40px;
     padding-top: 30px;
-    border-color:lightslategray;
-    border-right: solid;
+    padding-left: 35px;
+    padding-right: 10px;
+    background-color: red;
 }
-
 
