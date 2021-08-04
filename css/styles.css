@@ -28,8 +28,16 @@ ul {
 }
 
 #navbar {
-    padding-left: 35px;
-    padding-top: 25px;
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    padding-left: 40px;
+    padding-top: 30px;
+    border-color:lightslategray;
+    border-right: solid;
 }
 
 
